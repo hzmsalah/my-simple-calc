@@ -29,7 +29,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Alternatively, you can try it [here](https://6a04b9df6c0a1b4af9ef6687--zippy-marigold-8aae7f.netlify.app/)
+Alternatively, you can try it [here](https://zippy-marigold-8aae7f.netlify.app/)
 
 ## Course Information
 
