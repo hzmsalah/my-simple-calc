@@ -1,5 +1,5 @@
 import './App.css';
-import {use, useRef, useState} from 'react';
+import { useRef, useState} from 'react';
 
 function App() {
   const inputRef = useRef(null);
