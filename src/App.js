@@ -67,10 +67,10 @@ function App() {
           type="number"
           placeholder="Type a number"
         />
-        <button onClick={plus}>Add</button>
-        <button onClick={minus}>Subtract</button>
-        <button onClick={multiply}>Multiply</button>
-        <button onClick={divide}>Divide</button>
+        <button onClick={plus}>Add +</button>
+        <button onClick={minus}>Subtract -</button>
+        <button onClick={multiply}>Multiply *</button>
+        <button onClick={divide}>Divide /</button>
         <button onClick={resetInput}>Reset Input</button>
         <button onClick={resetResult}>Reset Result</button>
       </form>
